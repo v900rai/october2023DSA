@@ -1,7 +1,7 @@
 package october100;
 
 public class DivideString 
-{
+{ 
 	 public static void main(String[] args) {  
          String str = "aaaabbbbcccc";  
  
